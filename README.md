@@ -12,7 +12,8 @@ The government and numerous companies provided welfare services and financial as
 However, many still lack information about the society they have to face, and even worse, they grapple with intense loneliness.
 They trapped in these blind spots need opportunities to connect with peers in similar situations, share experiences, and if necessary, meet caring adults who can guide their future. 
 This is why we conceived **"Carea"**.
-<br><br>
+
+<br>
 
 ## 🎯 **Our Goal**
 <img width="668" alt="image" src="https://github.com/Team-Carea/Carea-Server/assets/93782168/49d5bc4e-dd94-48e1-a5cd-686de238d3b7">
@@ -44,20 +45,17 @@ Before you start, you have to install Docker. <br><br>
 <br>
 
 ## 🎥 **Demo Video Link**
+[![carea video](http://img.youtube.com/vi/hoJPOhs9zX8/0.jpg)](https://youtu.be/hoJPOhs9zX8)
 
 <br>
-
-
-<br>
-
 
 ## 📱**Feature Screenshots**
-
-<br>
-
-| <img src=""> | <img src="" > | <img src="">  | <img src="">    |
-|--------------|---------------|---------------|-----------------|
-| **User**     | **Community** | **Find Help** | **Verify Help** |
+<img width="1278" alt="Sign In & Up" src="https://github.com/Team-Carea/Carea/assets/93782168/6c091d2f-03c2-4096-b51e-63ae210ea058">
+<img width="1277" alt="App Introduction" src="https://github.com/Team-Carea/Carea/assets/93782168/8f05e6b7-5638-475e-911b-ef2a5a0b5ee9">
+<img width="1278" alt="Community" src="https://github.com/Team-Carea/Carea/assets/93782168/4fe62c62-743d-41e7-8da9-65a0d08f2acd">
+<img width="1279" alt="Find Help" src="https://github.com/Team-Carea/Carea/assets/93782168/c4cc24e5-3316-4ba2-8313-f1334feaf3b8">
+<img width="1275" alt="Start Chat" src="https://github.com/Team-Carea/Carea/assets/93782168/71d64051-02ae-4456-9905-bc5d08413e8b">
+<img width="1275" alt="Verify Help" src="https://github.com/Team-Carea/Carea/assets/93782168/a9feae66-4fff-4872-901e-b9e60a052322">
 
 <br>
 
