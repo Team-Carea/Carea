@@ -1,5 +1,5 @@
 # **2024 Solution Challenge: Carea**
-<img width="668" alt="image" src="https://github.com/Team-Carea/Carea-Server/assets/93782168/f66af85e-1474-4cd0-88f6-509104a56cda">
+<img width="900" alt="image" src="https://github.com/Team-Carea/Carea-Server/assets/93782168/f66af85e-1474-4cd0-88f6-509104a56cda">
 
 **Carea** is an app designed for care leavers, offering a platform where individuals can share information, life stories, and forge connections with peers within the community. Additionally, users have the opportunity of connections with nearby adults who can provide valuable insights and guidance on navigating life's challenges.
 
@@ -16,7 +16,7 @@ This is why we conceived **"Carea"**.
 <br>
 
 ## 🎯 **Our Goal**
-<img width="668" alt="image" src="https://github.com/Team-Carea/Carea-Server/assets/93782168/49d5bc4e-dd94-48e1-a5cd-686de238d3b7">
+<img width="900" alt="image" src="https://github.com/Team-Carea/Carea-Server/assets/93782168/49d5bc4e-dd94-48e1-a5cd-686de238d3b7">
 
 <br>
 
@@ -46,6 +46,8 @@ Before you start, you have to install Docker. <br><br>
 
 ## 🎥 **Demo Video Link**
 [![carea video](http://img.youtube.com/vi/hoJPOhs9zX8/0.jpg)](https://youtu.be/hoJPOhs9zX8)
+
+👆 Click this image, you can watch the video on YouTube.
 
 <br>
 
