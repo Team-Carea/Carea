@@ -19,7 +19,7 @@ This is why we conceived **"Carea"**.
 ## 🎯 **Our Goal**
 <img width="900" alt="image" src="https://github.com/Team-Carea/Carea-Server/assets/93782168/49d5bc4e-dd94-48e1-a5cd-686de238d3b7">
 
-<br>
+<br><br>
 
 ## 🛠 **Project Architecture**
 ![architecture](https://github.com/Team-Carea/Carea-Server/assets/93782168/3035462b-03c4-48e5-ba90-2ad43c78a955)
@@ -32,6 +32,7 @@ This is why we conceived **"Carea"**.
 <br>
 
 ### Backend
+#### [Local]
 Before you start, you have to install Docker. <br><br>
 
 `git remote add https://github.com/Team-Carea/Carea-Server.git`
@@ -41,7 +42,10 @@ Before you start, you have to install Docker. <br><br>
 `docker compose up -d --build`
 
 - If you run this command, the containers of Django and Redis will start. <br>
-- Then, you can connect with this URL, http://localhost:8000.
+- Then, you can connect with this URL, http://localhost:8000. <br><br>
+
+#### [Deployment]
+Or, you can just connect with this URL, https://carea.app.
 
 <br>
 
