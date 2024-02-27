@@ -1,7 +1,8 @@
 # **2024 Solution Challenge: Carea**
-<img width="900" alt="image" src="https://github.com/Team-Carea/Carea-Server/assets/93782168/f66af85e-1474-4cd0-88f6-509104a56cda">
+<img width="900" alt="carea" src="https://github.com/Team-Carea/Carea/assets/93782168/ebd4cfd3-4c7e-461d-8438-87e03bba5b30">
 
-**Carea** is an app designed for care leavers, offering a platform where individuals can share information, life stories, and forge connections with peers within the community. Additionally, users have the opportunity of connections with nearby adults who can provide valuable insights and guidance on navigating life's challenges.
+**Carea** is an app designed for care leavers, offering a platform where individuals can share information, life stories, and forge connections with peers within the community. 
+Additionally, users have the opportunity of connections with nearby adults who can provide valuable insights and guidance on navigating life's challenges.
 
 <br>
 
